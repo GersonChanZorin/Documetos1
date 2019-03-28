@@ -1,0 +1,10 @@
+GERSTOR DE PAQUETES DE LINUX:
+
+Siempre se dice que en GNU/Linux no existen los instaladores autoejecutables como en el S.O. de 
+Microsoft, o que en en el de Apple te descargas la aplicación, la arrastras a la carpeta 
+correspondiente y está listo para funcionar. En ambos casos la aplicación la tenemos que descargar de 
+Internet, lo que supone que el origen del programa puede ser desconocido o, en el peor de los casos, 
+haber sido manipulado por alguien. Esto se traduce como una brecha de seguridad a tener en cuenta. 
+En GNU/Linux tenemos nuestros queridísimos repositorios y gestores de paquetes que no solo nos 
+protegen más sino que también nos ahorran tiempo, dado que es teclear un comando y tener actualizado 
+el repositorio, instalada la aplicación, desinstalada la aplicación…o actualizado el sistema.
